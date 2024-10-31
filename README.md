@@ -9,7 +9,6 @@ criaCartao(
     'portugues'
     'Complete o provérbio ’A cavalo dado..”'
     'Não se olha os dentes
-
 )
 
 criaCartao(
@@ -21,5 +20,6 @@ criaCartao(
 criaCartao(
     'Educacao Fisica
     'Qual o número mínimo de jogadores em cada time numa partida de futebol?
-    'Resposta'
+    '7 jogadores
+'
 )
